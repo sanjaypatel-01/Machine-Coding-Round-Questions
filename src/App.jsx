@@ -1,10 +1,10 @@
 import React from "react"
-import StopWatch from "./CodingRounds/StopWatch"
+import OtpField from "./CodingRounds/OtpField"
 
 function App() {
   return (
     <>
-        <StopWatch/>
+        <OtpField/>
     </>
   )
 }
