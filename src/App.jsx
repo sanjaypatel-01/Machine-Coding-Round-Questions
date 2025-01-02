@@ -1,10 +1,10 @@
 import React from "react"
-import HandleShuffle from "./CodingRounds/HandleShuffle"
+import StopWatch from "./CodingRounds/StopWatch"
 
 function App() {
   return (
     <>
-        <HandleShuffle/>
+        <StopWatch/>
     </>
   )
 }
