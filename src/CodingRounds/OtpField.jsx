@@ -69,3 +69,10 @@ export default OtpField;
 
 
 // Styles.css
+
+// input {
+//   width: 1rem;
+//   height: 1rem;
+//   padding: 0.5rem;
+//   margin: 0.5rem;
+// }
