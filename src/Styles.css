@@ -41,3 +41,24 @@
 .active {
     background-color: #017bfe;
 }
+
+.btn-back {
+    background-color: #017bfe;
+    color: white;
+    font-size: large;
+    padding: 10px;
+    border-radius: 10%;
+    border: none;
+    margin-right: 1rem;
+    cursor: pointer;
+}
+
+.btn-continue {
+    background-color: #017bfe;
+    color: white;
+    font-size: large;
+    padding: 10px;
+    border-radius: 10%;
+    border: none;
+    cursor: pointer;
+}

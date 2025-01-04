@@ -30,8 +30,8 @@ function FormStepper({ steps }) {
       </div>
       <div className="stepper-content">{steps[currentStep].content}</div>
       <div className="stepper-controls">
-        <button onClick={handleBack}>Back</button>
-        <button onClick={handleContinue}>Continue</button>
+        <button className="btn-back" onClick={handleBack}>Back</button>
+        <button className="btn-continue" onClick={handleContinue}>Continue</button>
       </div>
     </div>
   );
