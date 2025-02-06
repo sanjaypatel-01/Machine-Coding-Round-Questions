@@ -26,7 +26,7 @@ function HandleShuffle() {
           <li>{element}</li>
         ))}
       </ul>
-      <button onClick={handleShuffleItems} >Shuffle</button>
+      <button onClick={handleShuffleItems} >Shuffle Button</button>
     </div>
   );
 }
